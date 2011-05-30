@@ -1,0 +1,2 @@
+エントリポイントはtext/edit/TextEditorTest.javaです。
+エディタ本体はtext/view/EditorView.javaになっています
